@@ -1,1 +1,2 @@
-name: React
+*.js linguist-language=JavaScript
+*.jsx linguist-language=React
