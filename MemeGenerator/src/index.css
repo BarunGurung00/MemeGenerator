@@ -65,8 +65,29 @@ button {
   border-radius: 7px;
 }
 .memeImg{
-  width: 60%;
+  width: 55%;
   height: 60vh;
   display: block;
   margin: 5px auto;
+}
+
+#topText {
+  position: absolute;
+  top: 20px;
+  left: 0;
+  width: 100%;
+  text-align: center;
+  font-size: 3rem;
+  color: white;
+  text-shadow: 2px 2px 2px black;
+}
+#bottomText {
+  position: absolute;
+  bottom: 20px;
+  left: 0;
+  width: 100%;
+  text-align: center;
+  font-size: 3rem;
+  color: white;
+  text-shadow: 2px 2px 2px black;
 }
